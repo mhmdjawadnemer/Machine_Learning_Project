@@ -1,6 +1,6 @@
 # Machne_Learning_Tasks
 
-This repository shows the machine learning tasks for CodeAlpha remote internship.
+This repository shows the machine learning tasks.
 
 It's classified to four different tasks:
 
