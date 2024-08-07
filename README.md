@@ -1,6 +1,6 @@
-# Machne_Learning_Tasks
+# Machine_Learning_Project
 
-This repository shows the machine learning tasks.
+This repository shows the machine learning project.
 
 It's classified to four different tasks:
 
